@@ -1,5 +1,5 @@
 
-1.0.0 / 2024-12-25
+1.0.1 / 2024-12-29
 ==================
 
-  * first commit
+  * point to version 2 of paper

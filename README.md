@@ -1,6 +1,6 @@
 # AIS
 
-This code accompanies the paper: [Llarena, J., _"Automata in Space: Formal Language Theory meets Neural Computation"_, 2024.](https://josellarena.github.io/assets/doc/ais-paper-v1.pdf)
+This code accompanies the paper: [Llarena, J., _"Automata in Space: Formal Language Theory meets Neural Computation"_, 2024.](https://josellarena.github.io/assets/doc/ais-paper-v2.pdf)
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr);">
 
